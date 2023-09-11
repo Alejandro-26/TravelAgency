@@ -1,0 +1,17 @@
+C:\Users\57320\source\repos\TravelAgency\bin\Debug\TravelAgency.exe.config
+C:\Users\57320\source\repos\TravelAgency\bin\Debug\TravelAgency.exe
+C:\Users\57320\source\repos\TravelAgency\bin\Debug\TravelAgency.pdb
+C:\Users\57320\source\repos\TravelAgency\obj\Debug\TravelAgency.csproj.AssemblyReference.cache
+C:\Users\57320\source\repos\TravelAgency\obj\Debug\TravelAgency.Properties.Resources.resources
+C:\Users\57320\source\repos\TravelAgency\obj\Debug\TravelAgency.csproj.GenerateResource.cache
+C:\Users\57320\source\repos\TravelAgency\obj\Debug\TravelAgency.csproj.CoreCompileInputs.cache
+C:\Users\57320\source\repos\TravelAgency\obj\Debug\TravelAgency.exe
+C:\Users\57320\source\repos\TravelAgency\obj\Debug\TravelAgency.pdb
+C:\Users\57320\source\repos\TravelAgency\obj\Debug\TravelAgency.Reservation.resources
+C:\Users\57320\source\repos\TravelAgency\obj\Debug\TravelAgency.FrmularioBienvenida.resources
+C:\Users\57320\source\repos\TravelAgency\bin\Debug\CircularProgressBar.dll
+C:\Users\57320\source\repos\TravelAgency\bin\Debug\WinFormAnimation.dll
+C:\Users\57320\source\repos\TravelAgency\bin\Debug\CircularProgressBar.xml
+C:\Users\57320\source\repos\TravelAgency\obj\Debug\TravelAgency.csproj.CopyComplete
+C:\Users\57320\source\repos\TravelAgency\obj\Debug\TravelAgency.Login.resources
+C:\Users\57320\source\repos\TravelAgency\obj\Debug\TravelAgency.Formularios.TarjetaCredito.resources
